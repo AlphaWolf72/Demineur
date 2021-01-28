@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demineur</string>
+    <string name="pres">Il s\'agit d\'un démineur classique, avec 3 niveaux de difficultées.</string>
+    <string name="pres2">Lorsque vous finissez une grille, une nouvelle se créer.\nLes niveaux sont infinis.</string>
+    <string name="pres3">Vous pouvez faire un appuis long pour mettre un drapeau afin de sécuriser la case.</string>
+    <string name="pres4">Si le nombre de drapeau autour d\'une case est égale au nombre de la case, vous pouvez cliquer sur cette case afin d\'afficher les cases autour.</string>
+    <string name="name">Demineur</string>
+    <string name="apropos">Application créée par Thomas SINGLANDE</string>
+    <string name="apropos2">Etudiant en 2nd années de DUT Informatique à Laval</string>
+    <string name="accueil">accueil</string>
+    <string name="restart">restart</string>
+    <string name="logoIut">Image du logo de l\'iut de laval</string>
+    <string name="gameOver">Image avec écrit "Game Over"</string>
+    <string name="logoApp">Image du logo de l\'application</string>
+    <string name="facile">Facile</string>
+    <string name="moyen">moyen</string>
+    <string name="difficile">difficile</string>
+    <string name="aproposB">A propos</string>
+    <string name="tuto">Tutoriel</string>
+</resources>
